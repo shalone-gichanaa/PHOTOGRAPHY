@@ -40,13 +40,8 @@ nav ul li a:hover {
     border-radius: 6px;
 }
 
-/* hero image */
-.hero img {
-    object-fit: cover;
-    display: block;
-    width: 40%;
-    height: 300px;
-}
+
+
 
 .description {
     background: lightblue;
@@ -68,8 +63,9 @@ nav ul li a:hover {
 .about {
     background: lightgreen;
     padding: 1em 1em;
-    margin: 20px;
-    border: 1px solid;
+    margin: 10px;
+    
+    
 }
 
 .about h3 {
