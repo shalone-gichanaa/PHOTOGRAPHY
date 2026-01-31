@@ -61,18 +61,20 @@ nav ul li a:hover {
 }
 
 .about {
-   margin-left: 1em;   
+   margin-left: 1em; 
+   
 }
 
 .about h3 {
-    color: navy;
+    color: crimson;
     text-align: center;
     font-size: larger;
-    margin: 0%;
+    margin: 1px;
 }
 
 .about p {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
+    
 }
 
 .mybutton {
