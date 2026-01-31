@@ -40,9 +40,6 @@ nav ul li a:hover {
     border-radius: 6px;
 }
 
-
-
-
 .description {
     background: lightblue;
     margin: 50px;
@@ -59,19 +56,19 @@ nav ul li a:hover {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+.myprofile{
+    display: flex;
+}
 
 .about {
-    background: lightgreen;
-    padding: 1em 1em;
-    margin: 10px;
-    
-    
+   margin-left: 1em;   
 }
 
 .about h3 {
     color: navy;
     text-align: center;
     font-size: larger;
+    margin: 0%;
 }
 
 .about p {
