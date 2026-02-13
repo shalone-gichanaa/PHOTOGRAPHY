@@ -1,6 +1,6 @@
 #HomePage
 
-[![Homepage](./index.html)
+[Homepage](./index.html)
 [![Favorite](./favorite.html)
 
 #Where fashion meets art
