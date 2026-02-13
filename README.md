@@ -8,6 +8,12 @@ The website is deployed using GitHub Pages.
 
 https://shalone-gichanaa.github.io/PHOTOGRAPHY/
 
+## Technologies Used
+
+HTML
+CSS
+Git & Github
+GitHub Pages
 
 
 
