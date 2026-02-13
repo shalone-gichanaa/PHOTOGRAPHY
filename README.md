@@ -24,6 +24,10 @@ The website is deployed using GitHub Pages.
 ## Deployment
 The page was published/deployed to gh-pages using GitHub Pages from the main branch.
 
+## Author
+Shalone Gichana  
+Nairobi, Kenya
+
 
 
 
