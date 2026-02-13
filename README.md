@@ -4,9 +4,6 @@ This is a fashion photography website created using HTML and CSS.
 The design is inspired by runway culture, couture fashion, and editorial photography.
 
 
-# About Me
-I am Shalone a fashion photographer drawn to runway movement, couture structure, and expressive styling.My work is inspired by fashion weeks, editorial spreads, and the raw confidence of models owning their presence. Each shoot is treated like a collection — carefully styled, directed, and executed with precision.
-
 ##Quick links
 [VIEW COLLECTION](https://your-link-here.com)
 [BOOK A SHOOT](https://your-link-here.com)
