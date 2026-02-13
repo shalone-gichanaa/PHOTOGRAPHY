@@ -1,4 +1,4 @@
-#HomePage
+# Home Page
 
 [Homepage](./index.html)
 [Favorite](./favorite.html)
@@ -7,7 +7,7 @@
 High-fashion photography inspired by runway culture, couture design, and bold self-expression.
 
 #About Me
-I am Shalone a fashion photographer drawn to runway movement, couture structure, and expressive styling.My work is inspired by fashion weeks, editorial spreads, and the raw confidence of models owning their presence. Each shoot is treated like a collection — carefully styled, directed, and executed with precision.here.com
+I am Shalone a fashion photographer drawn to runway movement, couture structure, and expressive styling.My work is inspired by fashion weeks, editorial spreads, and the raw confidence of models owning their presence. Each shoot is treated like a collection — carefully styled, directed, and executed with precision.
 
 ##Quick links
 [VIEW COLLECTION](https://your-link-here.com)
