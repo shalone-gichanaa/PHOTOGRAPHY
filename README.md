@@ -3,7 +3,7 @@
 [Homepage](./index.html)
 [Favorite](./favorite.html)
 
-#Where fashion meets art
+# Where fashion meets art
 High-fashion photography inspired by runway culture, couture design, and bold self-expression.
 
 #About Me
