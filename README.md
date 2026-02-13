@@ -21,6 +21,10 @@ The website is deployed using GitHub Pages.
 - Clean and minimal design
 - Styled navigation
 
+## Deployment
+The page was published/deployed to gh-pages using GitHub Pages from the main branch.
+
+
 
 
 
