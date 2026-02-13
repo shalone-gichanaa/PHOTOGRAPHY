@@ -6,7 +6,7 @@ The design is inspired by runway culture, couture fashion, and editorial photogr
 ## Live Website
 The website is deployed using GitHub Pages.
 
-https://shalone-gichanaa.github.io/PHOTOGRAPHY/
+(https://shalone-gichanaa.github.io/PHOTOGRAPHY/)
 
 ## Technologies Used
 
